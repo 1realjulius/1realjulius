@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📫 How to reach me: [www.iamjulius.com]My Website
+📫 How to reach me: [www.iamjulius.com](My Website)
 
 <!--
 **1realjulius/1realjulius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
